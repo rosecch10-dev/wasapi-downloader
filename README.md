@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.com/sul-dlss/wasapi-downloader.svg?branch=main)](https://travis-ci.com/sul-dlss/wasapi-downloader)
-[![Coverage Status](https://coveralls.io/repos/github/sul-dlss/wasapi-downloader/badge.svg?branch=main)](https://coveralls.io/github/sul-dlss/wasapi-downloader?branch=main)
-[![GitHub version](https://badge.fury.io/gh/sul-dlss%2Fwasapi-downloader.svg)](https://badge.fury.io/gh/sul-dlss%2Fwasapi-downloader)
+**Note: wasapi-downloader has been deprecated in favor of using [wasapi-client](https://github.com/sul-dlss/wasapi_client)**
+
+---
 
 # wasapi-downloader
 Java command line application to download crawls from WASAPI.
